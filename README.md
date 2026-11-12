@@ -4,7 +4,7 @@
 
 ## Team Information
 * **Name:** Victor Munoz
-* **NetID:** 659531649[Insert Your UIC NetID]
+* **NetID:** 659531649
 * **Contribution:** 100% (Solo submission — implemented `fibonacci.asm`, verified edge cases in MARS, and wrote documentation)
 * **GitHub Repository:** https://github.com/victorUIC/ECE366PROJECT2
 
